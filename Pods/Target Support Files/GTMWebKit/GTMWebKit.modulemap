@@ -1,0 +1,6 @@
+framework module GTMWebKit {
+  umbrella header "GTMWebKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

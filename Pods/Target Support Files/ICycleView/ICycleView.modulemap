@@ -1,0 +1,6 @@
+framework module ICycleView {
+  umbrella header "ICycleView-umbrella.h"
+
+  export *
+  module * { export * }
+}
